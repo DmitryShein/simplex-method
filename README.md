@@ -1,4 +1,4 @@
-![image](https://github.com/DmitryShein/simplex-method/assets/108419757/807a9bb8-a520-44de-84e4-1258949b6100)# simplex-method
+# Метод - Симплекс
 
 Постановка задачи
 Компания "Мебельный завод" производит столы и стулья.
